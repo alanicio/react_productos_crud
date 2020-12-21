@@ -24,6 +24,11 @@
       "nombre": "Jugo de Fresa",
       "precio": "200",
       "id": 5
+    },
+    {
+      "nombre": "Droga",
+      "precio": 5000,
+      "id": 6
     }
   ]
 }
